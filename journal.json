@@ -31,11 +31,11 @@
 	},
 	"scis" : {
 		"default" : 0,
-		"option" : true,
+		"option" : false,
 		"list" : [
+			{ "id" : "", "name" : "External" },
 			{ "id" : "577340bc76d91160be2d103d", "name" : "FCS Editor" },
-			{ "id" : "57709faa76d911454aa75429", "name" : "FCS Associate Editor" },
-			{ "id" : "", "name" : "External" }
+			{ "id" : "57709faa76d911454aa75429", "name" : "FCS Associate Editor" }
 		]
 	}
 }
