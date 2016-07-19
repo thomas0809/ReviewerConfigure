@@ -1,0 +1,39 @@
+{
+	"default" : {
+		"default" : 0,
+		"option" : false,
+		"list" : [
+			{ "id" : "", "name" : ""}
+		]
+	},
+	"tkde-cs" : {
+		"default" : 0,
+		"option" : false,
+		"list" : [
+			{ "id" : "56f1750f76d9110ef18db5fe", "name" : "Data mining"}
+		]
+	},
+	"tkdd" : {
+		"default" : 0,
+		"option" : false,
+		"list" : [
+			{ "id" : "56f1750f76d9110ef18db5fe", "name" : "Data mining"}
+		]
+	},
+	"hepfcs" : {
+		"default" : 0,
+		"option" : true,
+		"list" : [
+			{ "id" : "577340bc76d91160be2d103d", "name" : "FCS Editor"},
+			{ "id" : "57709faa76d911454aa75429", "name" : "FCS Associate Editor"}
+		]
+	},
+	"scis" : {
+		"default" : 0,
+		"option" : true,
+		"list" : [
+			{ "id" : "577340bc76d91160be2d103d", "name" : "FCS Editor"},
+			{ "id" : "57709faa76d911454aa75429", "name" : "FCS Associate Editor"}
+		]
+	},
+}
