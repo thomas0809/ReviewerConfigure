@@ -31,7 +31,7 @@
 	},
 	"scis" : {
 		"default" : 0,
-		"option" : true,
+		"option" : false,
 		"list" : [
 			{ "id" : "", "name" : "External" },
 			{ "id" : "577340bc76d91160be2d103d", "name" : "FCS Editor" },
