@@ -24,8 +24,7 @@
 		"default" : 0,
 		"option" : true,
 		"list" : [
-			{ "id" : "577340bc76d91160be2d103d", "name" : "FCS Editor" },
-			{ "id" : "57709faa76d911454aa75429", "name" : "FCS Associate Editor" },
+			{ "id" : "57dec34e0a3ac57e05a0d697", "name" : "FCS AE" },
 			{ "id" : "", "name" : "External" }
 		]
 	},
